@@ -1,0 +1,59 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\ModuleVendor.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\ModuleVendor.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\ModuleVendor.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\obj\Debug\ModuleVendor.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\obj\Debug\ModuleVendor.VendorControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\obj\Debug\ModuleVendor.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\obj\Debug\ModuleVendor.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\obj\Debug\ModuleVendor.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\obj\Debug\ModuleVendor.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleVendor\obj\Debug\ModuleVendor.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\ModuleVendor.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\ModuleVendor.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\ModuleVendor.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.VendorControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.pdb
+E:\ERP - Copy\ModuleVendor\bin\Debug\ModuleVendor.dll
+E:\ERP - Copy\ModuleVendor\bin\Debug\ModuleVendor.pdb
+E:\ERP - Copy\ModuleVendor\bin\Debug\ModuleVendor.xml
+E:\ERP - Copy\ModuleVendor\bin\Debug\DB.dll
+E:\ERP - Copy\ModuleVendor\bin\Debug\ERPModules.dll
+E:\ERP - Copy\ModuleVendor\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\ModuleVendor\bin\Debug\Crypto.dll
+E:\ERP - Copy\ModuleVendor\bin\Debug\DB.pdb
+E:\ERP - Copy\ModuleVendor\bin\Debug\DB.xml
+E:\ERP - Copy\ModuleVendor\bin\Debug\ERPModules.pdb
+E:\ERP - Copy\ModuleVendor\bin\Debug\ERPModules.xml
+E:\ERP - Copy\ModuleVendor\bin\Debug\Crypto.pdb
+E:\ERP - Copy\ModuleVendor\bin\Debug\Crypto.xml
+E:\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.Resources.resources
+E:\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.VendorControl.resources
+E:\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.dll
+E:\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.xml
+E:\ERP - Copy\ModuleVendor\obj\Debug\ModuleVendor.pdb

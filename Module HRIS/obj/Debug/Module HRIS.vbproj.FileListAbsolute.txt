@@ -1,0 +1,21 @@
+E:\ERP - Copy\Module HRIS\obj\Debug\Module_HRIS.Resources.resources
+E:\ERP - Copy\Module HRIS\obj\Debug\Module_HRIS.Recruitment.resources
+E:\ERP - Copy\Module HRIS\obj\Debug\Module HRIS.vbproj.GenerateResource.Cache
+E:\ERP - Copy\Module HRIS\obj\Debug\Module HRIS.xml
+E:\ERP - Copy\Module HRIS\bin\Debug\Module HRIS.exe.config
+E:\ERP - Copy\Module HRIS\bin\Debug\Module HRIS.exe
+E:\ERP - Copy\Module HRIS\bin\Debug\Module HRIS.pdb
+E:\ERP - Copy\Module HRIS\bin\Debug\Module HRIS.xml
+E:\ERP - Copy\Module HRIS\obj\Debug\Module HRIS.exe
+E:\ERP - Copy\Module HRIS\obj\Debug\Module HRIS.pdb
+E:\ERP - Copy\Module HRIS\bin\Debug\ERPModules.dll
+E:\ERP - Copy\Module HRIS\bin\Debug\DB.dll
+E:\ERP - Copy\Module HRIS\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\Module HRIS\bin\Debug\Crypto.dll
+E:\ERP - Copy\Module HRIS\bin\Debug\ERPModules.pdb
+E:\ERP - Copy\Module HRIS\bin\Debug\ERPModules.xml
+E:\ERP - Copy\Module HRIS\bin\Debug\DB.pdb
+E:\ERP - Copy\Module HRIS\bin\Debug\DB.xml
+E:\ERP - Copy\Module HRIS\bin\Debug\Crypto.pdb
+E:\ERP - Copy\Module HRIS\bin\Debug\Crypto.xml
+E:\ERP - Copy\Module HRIS\obj\Debug\Module HRIS.vbprojResolveAssemblyReference.cache

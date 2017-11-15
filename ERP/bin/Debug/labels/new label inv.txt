@@ -1,0 +1,21 @@
+^XA
+
+^FT120,400^BY3,2^BCB,60,Y,N,N^FD[A]^FS
+^FT320,400^BY3,2^BCB,60,Y,N,N^FD[B]^FS
+^FT520,400^BY3,2^BCB,60,Y,N,N^FD[C]^FS
+^FT720,400^BY3,2^BCB,60,Y,N,N^FD[D]^FS
+
+^FT190,600^A0B,50,50^FD__________________________^FS
+^FT390,600^A0B,50,50^FD__________________________^FS
+^FT590,600^A0B,50,50^FD__________________________^FS
+
+^XZ
+
+
+label untuk printer Zdesigner ZT230-200dpi ZPL (Copy 1)
+-. kalo ukuran label tidak cocok, coba ganti template dibawah
+^FT120,400^BY3,2^BCB,60,Y,N,N^FD[A]^FS
+(120 untuk panjang, 400 untuk lebar)
+
+sedangkan untuk garis pakai ini
+^FT390,600^A0B,50,50^FD__________________________^FS

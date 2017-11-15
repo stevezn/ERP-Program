@@ -1,0 +1,122 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\ERP System.exe.config
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP System.exe
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP System.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP System.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\CRC32.vb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\ERP System.exe
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\ERP System.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\ERP System.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\DesktopWorkplace.Library.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\System.Data.SQLite.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\System.Net.FtpClient.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\Crownwood.MagicLibrary.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\Microsoft.mshtml.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP.CompanyForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP.LoginForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP.MainForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP.TabbedParent.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP.UpdateForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\RawPrinter.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Debug\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Debug\ERP.ChangePassword.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\ERP System.exe.config
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP System.exe
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP System.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP System.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\CRC32.vb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\ERP System.exe
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\ERP System.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\ERP System.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\DesktopWorkplace.Library.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\System.Data.SQLite.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\System.Net.FtpClient.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\Crownwood.MagicLibrary.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\Microsoft.mshtml.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\RawPrinter.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\bin\Debug\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP.ChangePassword.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP.CompanyForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP.LoginForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP.MainForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP.TabbedParent.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP.UpdateForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERP\obj\Debug\ERP.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ERP\bin\Debug\ERP System.exe.config
+E:\ERP - Copy\ERP\obj\Debug\ERP System.exe
+E:\ERP - Copy\ERP\obj\Debug\ERP System.xml
+E:\ERP - Copy\ERP\obj\Debug\ERP System.pdb
+E:\ERP - Copy\ERP\bin\Debug\CRC32.vb
+E:\ERP - Copy\ERP\bin\Debug\ERP System.exe
+E:\ERP - Copy\ERP\bin\Debug\ERP System.pdb
+E:\ERP - Copy\ERP\bin\Debug\ERP System.xml
+E:\ERP - Copy\ERP\bin\Debug\Crypto.dll
+E:\ERP - Copy\ERP\bin\Debug\DB.dll
+E:\ERP - Copy\ERP\bin\Debug\ERPModules.dll
+E:\ERP - Copy\ERP\bin\Debug\RawPrinter.dll
+E:\ERP - Copy\ERP\bin\Debug\System.Data.SQLite.dll
+E:\ERP - Copy\ERP\bin\Debug\System.Net.FtpClient.dll
+E:\ERP - Copy\ERP\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\ERP\bin\Debug\Microsoft.mshtml.dll
+E:\ERP - Copy\ERP\bin\Debug\Crypto.pdb
+E:\ERP - Copy\ERP\bin\Debug\Crypto.xml
+E:\ERP - Copy\ERP\bin\Debug\DB.pdb
+E:\ERP - Copy\ERP\bin\Debug\DB.xml
+E:\ERP - Copy\ERP\bin\Debug\ERPModules.pdb
+E:\ERP - Copy\ERP\bin\Debug\ERPModules.xml
+E:\ERP - Copy\ERP\bin\Debug\RawPrinter.pdb
+E:\ERP - Copy\ERP\bin\Debug\RawPrinter.xml
+E:\ERP - Copy\ERP\obj\Debug\ERP.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ERP\obj\Debug\ERP.ChangePassword.resources
+E:\ERP - Copy\ERP\obj\Debug\ERP.CompanyForm.resources
+E:\ERP - Copy\ERP\obj\Debug\ERP.LoginForm.resources
+E:\ERP - Copy\ERP\obj\Debug\ERP.MainForm.resources
+E:\ERP - Copy\ERP\obj\Debug\ERP.Resources.resources
+E:\ERP - Copy\ERP\obj\Debug\ERP.TabbedParent.resources
+E:\ERP - Copy\ERP\obj\Debug\ERP.UpdateForm.resources
+E:\ERP - Copy\ERP\obj\Debug\ERP.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ERP\obj\Debug\ERP.Pass.resources
+E:\ERP - Copy\ERP\bin\Debug\DevExpress.Data.v13.1.dll
+E:\ERP - Copy\ERP\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\ERP - Copy\ERP\bin\Debug\DevExpress.Utils.v13.1.dll
+E:\ERP - Copy\ERP\bin\Debug\DevExpress.Data.v13.1.xml
+E:\ERP - Copy\ERP\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+E:\ERP - Copy\ERP\bin\Debug\DevExpress.Utils.v13.1.xml
+E:\ERP - Copy\ERP\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+E:\ERP - Copy\ERP\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll

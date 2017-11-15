@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BA5838F9-2D04-43E6-8196-0AEACFE480DE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ModuleScale</RootNamespace>
+    <AssemblyName>ModuleScale</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ModuleScale.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ModuleScale.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>ModuleScale.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>ModuleScale.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Excel">
+      <HintPath>..\Dependencies\Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\dll\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.99.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencies\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Linq.Expressions" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EditProduction.Designer.vb">
+      <DependentUpon>EditProduction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditProduction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Periode.designer.vb">
+      <DependentUpon>Periode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Periode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quantity.Designer.vb">
+      <DependentUpon>Quantity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Quantity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rekap Data.Designer.vb">
+      <DependentUpon>Rekap Data.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rekap Data.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScaleClass.vb" />
+    <Compile Include="ScaleControl.Designer.vb">
+      <DependentUpon>ScaleControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScaleControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScaleLabeling.Designer.vb">
+      <DependentUpon>ScaleLabeling.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScaleLabeling.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScaleSettings.Designer.vb">
+      <DependentUpon>ScaleSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScaleSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Station.Designer.vb">
+      <DependentUpon>Station.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Station.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransLabeling.designer.vb">
+      <DependentUpon>TransLabeling.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransLabeling.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EditProduction.resx">
+      <DependentUpon>EditProduction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Periode.resx">
+      <DependentUpon>Periode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quantity.resx">
+      <DependentUpon>Quantity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rekap Data.resx">
+      <DependentUpon>Rekap Data.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScaleControl.resx">
+      <DependentUpon>ScaleControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScaleLabeling.resx">
+      <DependentUpon>ScaleLabeling.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScaleSettings.resx">
+      <DependentUpon>ScaleSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Station.resx">
+      <DependentUpon>Station.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransLabeling.resx">
+      <DependentUpon>TransLabeling.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DB\DB.vbproj">
+      <Project>{f0329814-cf90-4507-96a4-f98d0d699953}</Project>
+      <Name>DB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ERPModules\ERPModules.vbproj">
+      <Project>{20f49dd5-681b-4109-9330-663ae90676ed}</Project>
+      <Name>ERPModules</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ERP\ERP.vbproj">
+      <Project>{C597AE08-7283-461D-B9DF-7BDF1C973EDB}</Project>
+      <Name>ERP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RawPrinter\RawPrinter.vbproj">
+      <Project>{1bf2f09f-e278-46fd-8c82-38d24bed17cf}</Project>
+      <Name>RawPrinter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner091209112617.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,35 @@
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Debug\Crypto.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Debug\Crypto.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Debug\Crypto.pdb
+D:\repo\roket2016\ERP\Crypto\bin\Debug\Crypto.dll
+D:\repo\roket2016\ERP\Crypto\bin\Debug\Crypto.pdb
+D:\repo\roket2016\ERP\Crypto\bin\Debug\Crypto.xml
+D:\repo\roket2016\ERP\Crypto\obj\Debug\Crypto.vbprojResolveAssemblyReference.cache
+D:\repo\roket2016\ERP\Crypto\obj\Debug\Crypto.Resources.resources
+D:\repo\roket2016\ERP\Crypto\obj\Debug\Crypto.vbproj.GenerateResource.Cache
+D:\repo\roket2016\ERP\Crypto\obj\Debug\Crypto.dll
+D:\repo\roket2016\ERP\Crypto\obj\Debug\Crypto.xml
+D:\repo\roket2016\ERP\Crypto\obj\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Debug\Crypto.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\Crypto\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\Crypto\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\Crypto\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\Crypto\obj\Debug\Crypto.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\Crypto\obj\Debug\Crypto.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\Crypto\obj\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\Crypto\obj\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\Crypto\obj\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\Crypto\obj\Debug\Crypto.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\Crypto\bin\Debug\Crypto.dll
+E:\ERP - Copy\Crypto\bin\Debug\Crypto.pdb
+E:\ERP - Copy\Crypto\bin\Debug\Crypto.xml
+E:\ERP - Copy\Crypto\obj\Debug\Crypto.Resources.resources
+E:\ERP - Copy\Crypto\obj\Debug\Crypto.vbproj.GenerateResource.Cache
+E:\ERP - Copy\Crypto\obj\Debug\Crypto.dll
+E:\ERP - Copy\Crypto\obj\Debug\Crypto.xml
+E:\ERP - Copy\Crypto\obj\Debug\Crypto.pdb

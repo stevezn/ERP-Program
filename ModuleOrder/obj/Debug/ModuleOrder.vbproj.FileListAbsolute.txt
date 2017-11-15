@@ -1,0 +1,65 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\ModuleOrder.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\ModuleOrder.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\ModuleOrder.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\obj\Debug\ModuleOrder.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\obj\Debug\ModuleOrder.OrderControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\obj\Debug\ModuleOrder.SpecialPrice.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\obj\Debug\ModuleOrder.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\obj\Debug\ModuleOrder.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\obj\Debug\ModuleOrder.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\obj\Debug\ModuleOrder.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\obj\Debug\ModuleOrder.OrderLot.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleOrder\obj\Debug\ModuleOrder.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\ModuleOrder.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\ModuleOrder.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\ModuleOrder.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.OrderControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.OrderLot.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.SpecialPrice.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ModuleOrder\bin\Debug\ModuleOrder.dll
+E:\ERP - Copy\ModuleOrder\bin\Debug\ModuleOrder.pdb
+E:\ERP - Copy\ModuleOrder\bin\Debug\ModuleOrder.xml
+E:\ERP - Copy\ModuleOrder\bin\Debug\DB.dll
+E:\ERP - Copy\ModuleOrder\bin\Debug\ERPModules.dll
+E:\ERP - Copy\ModuleOrder\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\ModuleOrder\bin\Debug\Crypto.dll
+E:\ERP - Copy\ModuleOrder\bin\Debug\DB.pdb
+E:\ERP - Copy\ModuleOrder\bin\Debug\DB.xml
+E:\ERP - Copy\ModuleOrder\bin\Debug\ERPModules.pdb
+E:\ERP - Copy\ModuleOrder\bin\Debug\ERPModules.xml
+E:\ERP - Copy\ModuleOrder\bin\Debug\Crypto.pdb
+E:\ERP - Copy\ModuleOrder\bin\Debug\Crypto.xml
+E:\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.Resources.resources
+E:\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.OrderControl.resources
+E:\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.OrderLot.resources
+E:\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.SpecialPrice.resources
+E:\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.dll
+E:\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.xml
+E:\ERP - Copy\ModuleOrder\obj\Debug\ModuleOrder.pdb

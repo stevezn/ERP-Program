@@ -1,0 +1,8 @@
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\bin\Release\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\bin\Release\RawPrinter.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\bin\Release\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Release\RawPrinter.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Release\RawPrinter.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Release\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Release\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Release\RawPrinter.pdb

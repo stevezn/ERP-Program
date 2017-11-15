@@ -1,0 +1,116 @@
+Public Class AspekKerja
+    Private Sub SimpleButton4_Click(sender As Object, e As EventArgs) Handles SimpleButton4.Click
+        Close()
+    End Sub
+
+    Private Sub AspekKerja_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        SQLConnection.Close()
+        SQLConnection.ConnectionString = CONSTRING
+        If SQLConnection.State = ConnectionState.Closed Then
+            SQLConnection.Open()
+        End If
+        aspekkerja()
+    End Sub
+
+    Sub aspek()
+        Dim query As MySqlCommand = SQLConnection.CreateCommand
+        query.CommandText = "select Tasks, Nama from db_calcbor"
+        Dim dt As New DataTable
+        dt.Load(query.ExecuteReader)
+        GridControl1.DataSource = dt
+        GridControl1.UseEmbeddedNavigator = True
+        GridView1.MoveLast()
+    End Sub
+
+    Sub aspekkerja()
+        Dim query As MySqlCommand = SQLConnection.CreateCommand
+        query.CommandText = "select Tasks, Name, Enabled from db_tasks"
+        Dim tab As New DataTable
+        tab.Load(query.ExecuteReader)
+        GridControl1.DataSource = tab
+        GridControl1.UseEmbeddedNavigator = True
+        GridView1.MoveLast()
+        GridView1.BestFitColumns()
+    End Sub
+
+    Private Sub GridView1_FocusedRowChanged(sender As Object, e As DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventArgs) Handles GridView1.FocusedRowChanged
+        Dim datatabl As New DataTable
+        Dim sqlCommand As New MySqlCommand
+        datatabl.Clear()
+        Dim param As String = ""
+        Try
+            param = "and Tasks='" + GridView1.GetFocusedRowCellValue("Tasks").ToString() + "'"
+            sqlCommand.CommandText = "SELECT Tasks, Name FROM db_Tasks WHERE 1 = 1 " + param.ToString()
+            sqlCommand.Connection = SQLConnection
+            Dim adapter As New MySqlDataAdapter(sqlCommand.CommandText, SQLConnection)
+            Dim cb As New MySqlCommandBuilder(adapter)
+            adapter.Fill(datatabl)
+            If datatabl.Rows.Count > -1 Then
+                'For i As Integer = 0 To datatabl.Rows.Count - 1            
+                LabelControl1.Text = datatabl.Rows(0).Item("Tasks").ToString
+                LabelControl2.Text = datatabl.Rows(0).Item("Name").ToString
+                'Next
+            End If
+        Catch ex As Exception
+            MsgBox(ex.Message, MsgBoxStyle.Information)
+        End Try
+    End Sub
+
+    Private Sub SimpleButton1_Click(sender As Object, e As EventArgs) Handles SimpleButton1.Click
+        With ModAK
+            .LabelControl7.Text = LabelControl3.Text
+            .ShowDialog()
+        End With
+        'ModAK.Close()
+        'With ModAK
+        '    .LabelControl7.Text = LabelControl3.Text
+        '    .Show()
+        'End With
+    End Sub
+
+    ' Dim mods As New ModAKS
+
+    Private Sub SimpleButton2_Click(sender As Object, e As EventArgs) Handles SimpleButton2.Click
+        Dim query As MySqlCommand = SQLConnection.CreateCommand
+        query.CommandText = "truncate db_tmpname"
+        query.ExecuteNonQuery()
+
+        query.CommandText = "insert into db_tmpname (status) values (@status)"
+        query.Parameters.Clear()
+        query.Parameters.AddWithValue("@status", LabelControl1.Text)
+        query.ExecuteNonQuery()
+        With ModAKS
+            .ShowDialog()
+        End With
+
+        'If mods Is Nothing OrElse mods.IsDisposed OrElse mods.MinimizeBox Then
+        '    mods.Close()
+        '    mods = New ModAKS
+        'End If
+        'mods.Show()
+    End Sub
+
+    Sub deletion()
+        Dim query As MySqlCommand = SQLConnection.CreateCommand
+        query.CommandText = "delete from db_tasks where tasks = '" & LabelControl1.Text & "'"
+        query.ExecuteNonQuery()
+        MsgBox("Removed", MsgBoxStyle.Information, "Data Removed Succesfully")
+    End Sub
+
+    Private Sub SimpleButton3_Click(sender As Object, e As EventArgs) Handles SimpleButton3.Click
+        Dim mess2 As String
+        mess2 = CType(MsgBox("Are you sure to delete this data?", MsgBoxStyle.YesNo, "Warning"), String)
+        If CType(mess2, Global.Microsoft.VisualBasic.MsgBoxResult) = vbYes Then
+            deletion()
+        End If
+        aspekkerja()
+    End Sub
+
+    Private Sub SimpleButton5_Click(sender As Object, e As EventArgs) Handles SimpleButton5.Click
+        aspekkerja()
+    End Sub
+
+    Private Sub GridView1_CustomDrawColumnHeader(sender As Object, e As DevExpress.XtraGrid.Views.Grid.ColumnHeaderCustomDrawEventArgs) Handles GridView1.CustomDrawColumnHeader
+
+    End Sub
+End Class

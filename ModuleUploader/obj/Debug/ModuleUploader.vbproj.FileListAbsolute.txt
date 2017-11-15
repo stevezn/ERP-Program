@@ -1,0 +1,76 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\ModuleUploader.exe.config
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\ModuleUploader.exe
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\ModuleUploader.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\ModuleUploader.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\System.Data.SQLite.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\obj\Debug\ModuleUploader.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\obj\Debug\ModuleUploader.MainForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\obj\Debug\ModuleUploader.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\obj\Debug\ModuleUploader.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\obj\Debug\ModuleUploader.exe
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\obj\Debug\ModuleUploader.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUploader\obj\Debug\ModuleUploader.pdb
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\ModuleUploader.exe.config
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\ModuleUploader.exe
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\ModuleUploader.pdb
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\ModuleUploader.xml
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\DB.dll
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\System.Data.SQLite.dll
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\MySql.Data.dll
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\Crypto.dll
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\DB.pdb
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\DB.xml
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\Crypto.pdb
+D:\repo\roket2016\ERP\ModuleUploader\bin\Debug\Crypto.xml
+D:\repo\roket2016\ERP\ModuleUploader\obj\Debug\ModuleUploader.vbprojResolveAssemblyReference.cache
+D:\repo\roket2016\ERP\ModuleUploader\obj\Debug\ModuleUploader.MainForm.resources
+D:\repo\roket2016\ERP\ModuleUploader\obj\Debug\ModuleUploader.Resources.resources
+D:\repo\roket2016\ERP\ModuleUploader\obj\Debug\ModuleUploader.vbproj.GenerateResource.Cache
+D:\repo\roket2016\ERP\ModuleUploader\obj\Debug\ModuleUploader.exe
+D:\repo\roket2016\ERP\ModuleUploader\obj\Debug\ModuleUploader.xml
+D:\repo\roket2016\ERP\ModuleUploader\obj\Debug\ModuleUploader.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\ModuleUploader.exe.config
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\ModuleUploader.exe
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\ModuleUploader.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\ModuleUploader.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\System.Data.SQLite.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.MainForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.exe
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.pdb
+E:\ERP - Copy\ModuleUploader\bin\Debug\ModuleUploader.exe.config
+E:\ERP - Copy\ModuleUploader\bin\Debug\ModuleUploader.exe
+E:\ERP - Copy\ModuleUploader\bin\Debug\ModuleUploader.pdb
+E:\ERP - Copy\ModuleUploader\bin\Debug\ModuleUploader.xml
+E:\ERP - Copy\ModuleUploader\bin\Debug\DB.dll
+E:\ERP - Copy\ModuleUploader\bin\Debug\System.Data.SQLite.dll
+E:\ERP - Copy\ModuleUploader\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\ModuleUploader\bin\Debug\Crypto.dll
+E:\ERP - Copy\ModuleUploader\bin\Debug\DB.pdb
+E:\ERP - Copy\ModuleUploader\bin\Debug\DB.xml
+E:\ERP - Copy\ModuleUploader\bin\Debug\Crypto.pdb
+E:\ERP - Copy\ModuleUploader\bin\Debug\Crypto.xml
+E:\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.MainForm.resources
+E:\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.Resources.resources
+E:\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.exe
+E:\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.xml
+E:\ERP - Copy\ModuleUploader\obj\Debug\ModuleUploader.pdb

@@ -1,0 +1,98 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\ModuleItem.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\ModuleItem.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\ModuleItem.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\ModuleItem.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\ModuleItem.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\ModuleItem.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\ModuleItem.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\ModuleItem.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\ModuleItem.pdb
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\ModuleItem.dll
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\ModuleItem.pdb
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\ModuleItem.xml
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\DB.dll
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\ERPModules.dll
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\MySql.Data.dll
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\Crypto.dll
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\DB.pdb
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\DB.xml
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\ERPModules.pdb
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\ERPModules.xml
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\Crypto.pdb
+D:\repo\roket2016\ERP\ModuleItem\bin\Debug\Crypto.xml
+D:\repo\roket2016\ERP\ModuleItem\obj\Debug\ModuleItem.vbprojResolveAssemblyReference.cache
+D:\repo\roket2016\ERP\ModuleItem\obj\Debug\ModuleItem.ItemControl.resources
+D:\repo\roket2016\ERP\ModuleItem\obj\Debug\ModuleItem.Resources.resources
+D:\repo\roket2016\ERP\ModuleItem\obj\Debug\ModuleItem.vbproj.GenerateResource.Cache
+D:\repo\roket2016\ERP\ModuleItem\obj\Debug\ModuleItem.dll
+D:\repo\roket2016\ERP\ModuleItem\obj\Debug\ModuleItem.xml
+D:\repo\roket2016\ERP\ModuleItem\obj\Debug\ModuleItem.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\hu-HU\ModuleItem.resources.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\bin\Debug\id-ID\ModuleItem.resources.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\hu-HU\ModuleItem.resources.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\id-ID\ModuleItem.resources.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\ModuleItem.ItemControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\ModuleItem.ItemControl.hu-HU.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleItem\obj\Debug\ModuleItem.ItemControl.id-ID.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\ModuleItem.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\ModuleItem.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\ModuleItem.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\hu-HU\ModuleItem.resources.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\id-ID\ModuleItem.resources.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.ItemControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.ItemControl.hu-HU.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.ItemControl.id-ID.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\hu-HU\ModuleItem.resources.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\id-ID\ModuleItem.resources.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.pdb
+E:\ERP - Copy\ModuleItem\bin\Debug\ModuleItem.dll
+E:\ERP - Copy\ModuleItem\bin\Debug\ModuleItem.pdb
+E:\ERP - Copy\ModuleItem\bin\Debug\ModuleItem.xml
+E:\ERP - Copy\ModuleItem\bin\Debug\hu-HU\ModuleItem.resources.dll
+E:\ERP - Copy\ModuleItem\bin\Debug\id-ID\ModuleItem.resources.dll
+E:\ERP - Copy\ModuleItem\bin\Debug\DB.dll
+E:\ERP - Copy\ModuleItem\bin\Debug\ERPModules.dll
+E:\ERP - Copy\ModuleItem\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\ModuleItem\bin\Debug\Crypto.dll
+E:\ERP - Copy\ModuleItem\bin\Debug\DB.pdb
+E:\ERP - Copy\ModuleItem\bin\Debug\DB.xml
+E:\ERP - Copy\ModuleItem\bin\Debug\ERPModules.pdb
+E:\ERP - Copy\ModuleItem\bin\Debug\ERPModules.xml
+E:\ERP - Copy\ModuleItem\bin\Debug\Crypto.pdb
+E:\ERP - Copy\ModuleItem\bin\Debug\Crypto.xml
+E:\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.ItemControl.resources
+E:\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.Resources.resources
+E:\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.ItemControl.hu-HU.resources
+E:\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.ItemControl.id-ID.resources
+E:\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ModuleItem\obj\Debug\hu-HU\ModuleItem.resources.dll
+E:\ERP - Copy\ModuleItem\obj\Debug\id-ID\ModuleItem.resources.dll
+E:\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.dll
+E:\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.xml
+E:\ERP - Copy\ModuleItem\obj\Debug\ModuleItem.pdb

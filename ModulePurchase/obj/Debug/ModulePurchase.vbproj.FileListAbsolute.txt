@@ -1,0 +1,33 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\bin\Debug\ModulePurchase.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\bin\Debug\ModulePurchase.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\bin\Debug\ModulePurchase.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Debug\ModulePurchase.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Debug\ModulePurchase.PurchaseControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Debug\ModulePurchase.PurchaseRequest.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Debug\ModulePurchase.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Debug\ModulePurchase.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Debug\ModulePurchase.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Debug\ModulePurchase.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Debug\ModulePurchase.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\bin\Debug\ModulePurchase.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\bin\Debug\ModulePurchase.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\bin\Debug\ModulePurchase.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.PurchaseControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.PurchaseRequest.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ModulePurchase\bin\Debug\ModulePurchase.dll
+E:\ERP - Copy\ModulePurchase\bin\Debug\ModulePurchase.pdb
+E:\ERP - Copy\ModulePurchase\bin\Debug\ModulePurchase.xml
+E:\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.Resources.resources
+E:\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.PurchaseControl.resources
+E:\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.PurchaseRequest.resources
+E:\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.dll
+E:\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.xml
+E:\ERP - Copy\ModulePurchase\obj\Debug\ModulePurchase.pdb

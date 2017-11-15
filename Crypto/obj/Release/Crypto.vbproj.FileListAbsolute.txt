@@ -1,0 +1,6 @@
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\bin\Release\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\bin\Release\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Release\Crypto.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Release\Crypto.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Release\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\Release\Crypto.xml

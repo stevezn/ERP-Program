@@ -1,0 +1,46 @@
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\bin\Debug\barPrint.exe.config
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\bin\Debug\barPrint.exe
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\bin\Debug\barPrint.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\bin\Debug\barPrint.xml
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\bin\Debug\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\bin\Debug\RawPrinter.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\bin\Debug\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.Form1.resources
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.exe
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.xml
+D:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.pdb
+F:\Projects\VSRepo\roket2016-new\ERP\barPrint\bin\Debug\barPrint.exe.config
+F:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.exe
+F:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.xml
+F:\Projects\VSRepo\roket2016-new\ERP\barPrint\obj\Debug\barPrint.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\bin\Debug\barPrint.exe.config
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\obj\Debug\barPrint.exe
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\obj\Debug\barPrint.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\obj\Debug\barPrint.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\bin\Debug\barPrint.exe
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\bin\Debug\barPrint.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\bin\Debug\barPrint.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\bin\Debug\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\bin\Debug\RawPrinter.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\bin\Debug\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\obj\Debug\barPrint.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\obj\Debug\barPrint.Form1.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\obj\Debug\barPrint.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\barPrint\obj\Debug\barPrint.vbproj.GenerateResource.Cache
+E:\ERP - Copy\barPrint\bin\Debug\barPrint.exe.config
+E:\ERP - Copy\barPrint\bin\Debug\barPrint.exe
+E:\ERP - Copy\barPrint\bin\Debug\barPrint.pdb
+E:\ERP - Copy\barPrint\bin\Debug\barPrint.xml
+E:\ERP - Copy\barPrint\bin\Debug\RawPrinter.dll
+E:\ERP - Copy\barPrint\bin\Debug\RawPrinter.pdb
+E:\ERP - Copy\barPrint\bin\Debug\RawPrinter.xml
+E:\ERP - Copy\barPrint\obj\Debug\barPrint.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\barPrint\obj\Debug\barPrint.Form1.resources
+E:\ERP - Copy\barPrint\obj\Debug\barPrint.Resources.resources
+E:\ERP - Copy\barPrint\obj\Debug\barPrint.vbproj.GenerateResource.Cache
+E:\ERP - Copy\barPrint\obj\Debug\barPrint.exe
+E:\ERP - Copy\barPrint\obj\Debug\barPrint.xml
+E:\ERP - Copy\barPrint\obj\Debug\barPrint.pdb

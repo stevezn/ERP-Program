@@ -1,0 +1,59 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\ModuleCustomer.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\ModuleCustomer.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\ModuleCustomer.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\obj\Debug\ModuleCustomer.CustControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\obj\Debug\ModuleCustomer.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\obj\Debug\ModuleCustomer.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\obj\Debug\ModuleCustomer.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\obj\Debug\ModuleCustomer.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\obj\Debug\ModuleCustomer.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleCustomer\obj\Debug\ModuleCustomer.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\ModuleCustomer.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\ModuleCustomer.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\ModuleCustomer.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.CustControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.pdb
+E:\ERP - Copy\ModuleCustomer\bin\Debug\ModuleCustomer.dll
+E:\ERP - Copy\ModuleCustomer\bin\Debug\ModuleCustomer.pdb
+E:\ERP - Copy\ModuleCustomer\bin\Debug\ModuleCustomer.xml
+E:\ERP - Copy\ModuleCustomer\bin\Debug\DB.dll
+E:\ERP - Copy\ModuleCustomer\bin\Debug\ERPModules.dll
+E:\ERP - Copy\ModuleCustomer\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\ModuleCustomer\bin\Debug\Crypto.dll
+E:\ERP - Copy\ModuleCustomer\bin\Debug\DB.pdb
+E:\ERP - Copy\ModuleCustomer\bin\Debug\DB.xml
+E:\ERP - Copy\ModuleCustomer\bin\Debug\ERPModules.pdb
+E:\ERP - Copy\ModuleCustomer\bin\Debug\ERPModules.xml
+E:\ERP - Copy\ModuleCustomer\bin\Debug\Crypto.pdb
+E:\ERP - Copy\ModuleCustomer\bin\Debug\Crypto.xml
+E:\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.CustControl.resources
+E:\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.Resources.resources
+E:\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.dll
+E:\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.xml
+E:\ERP - Copy\ModuleCustomer\obj\Debug\ModuleCustomer.pdb

@@ -1,0 +1,12 @@
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Release\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Release\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Release\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Release\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Release\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Release\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Release\DB.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Release\DB.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Release\DB.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Release\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Release\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Release\DB.pdb

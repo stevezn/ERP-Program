@@ -1,0 +1,9 @@
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\bin\x86\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\bin\x86\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\bin\x86\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\x86\Debug\Crypto.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\x86\Debug\Crypto.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\x86\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\x86\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\x86\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\Crypto\obj\x86\Debug\Crypto.vbprojResolveAssemblyReference.cache

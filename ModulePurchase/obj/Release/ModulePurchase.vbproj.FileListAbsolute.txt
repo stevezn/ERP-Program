@@ -1,0 +1,11 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\bin\Release\ModulePurchase.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\bin\Release\ModulePurchase.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\bin\Release\ModulePurchase.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Release\ModulePurchase.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Release\ModulePurchase.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Release\ModulePurchase.PurchaseControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Release\ModulePurchase.PurchaseRequest.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Release\ModulePurchase.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Release\ModulePurchase.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Release\ModulePurchase.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModulePurchase\obj\Release\ModulePurchase.pdb

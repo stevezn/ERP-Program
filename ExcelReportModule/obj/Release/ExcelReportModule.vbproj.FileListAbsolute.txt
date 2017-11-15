@@ -1,0 +1,10 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\bin\Release\ExcelReportModule.dll.config
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\bin\Release\ExcelReportModule.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\bin\Release\ExcelReportModule.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\bin\Release\ExcelReportModule.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\obj\Release\ExcelReportModule.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\obj\Release\ExcelReportModule.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\obj\Release\ExcelReportModule.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\obj\Release\ExcelReportModule.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\obj\Release\ExcelReportModule.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ExcelReportModule\obj\Release\ExcelReportModule.pdb

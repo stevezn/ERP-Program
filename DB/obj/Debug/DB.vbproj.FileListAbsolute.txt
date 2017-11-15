@@ -1,0 +1,52 @@
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\DB\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Debug\DB.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Debug\DB.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Debug\DB.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\DB\obj\Debug\DB.pdb
+D:\repo\roket2016\ERP\DB\bin\Debug\DB.dll
+D:\repo\roket2016\ERP\DB\bin\Debug\DB.pdb
+D:\repo\roket2016\ERP\DB\bin\Debug\DB.xml
+D:\repo\roket2016\ERP\DB\bin\Debug\Crypto.dll
+D:\repo\roket2016\ERP\DB\bin\Debug\MySql.Data.dll
+D:\repo\roket2016\ERP\DB\bin\Debug\Crypto.pdb
+D:\repo\roket2016\ERP\DB\bin\Debug\Crypto.xml
+D:\repo\roket2016\ERP\DB\obj\Debug\DB.vbprojResolveAssemblyReference.cache
+D:\repo\roket2016\ERP\DB\obj\Debug\DB.Resources.resources
+D:\repo\roket2016\ERP\DB\obj\Debug\DB.vbproj.GenerateResource.Cache
+D:\repo\roket2016\ERP\DB\obj\Debug\DB.dll
+D:\repo\roket2016\ERP\DB\obj\Debug\DB.xml
+D:\repo\roket2016\ERP\DB\obj\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\obj\Debug\DB.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\obj\Debug\DB.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\obj\Debug\DB.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\obj\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\obj\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\DB\obj\Debug\DB.pdb
+E:\ERP - Copy\DB\bin\Debug\DB.dll
+E:\ERP - Copy\DB\bin\Debug\DB.pdb
+E:\ERP - Copy\DB\bin\Debug\DB.xml
+E:\ERP - Copy\DB\bin\Debug\Crypto.dll
+E:\ERP - Copy\DB\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\DB\bin\Debug\Crypto.pdb
+E:\ERP - Copy\DB\bin\Debug\Crypto.xml
+E:\ERP - Copy\DB\obj\Debug\DB.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\DB\obj\Debug\DB.Resources.resources
+E:\ERP - Copy\DB\obj\Debug\DB.vbproj.GenerateResource.Cache
+E:\ERP - Copy\DB\obj\Debug\DB.dll
+E:\ERP - Copy\DB\obj\Debug\DB.xml
+E:\ERP - Copy\DB\obj\Debug\DB.pdb

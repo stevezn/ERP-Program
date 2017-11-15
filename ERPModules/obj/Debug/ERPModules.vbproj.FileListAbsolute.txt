@@ -1,0 +1,64 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Debug\ERPModules.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Debug\ERPModules.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Debug\ERPModules.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Debug\ERPModules.pdb
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\ERPModules.dll
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\ERPModules.pdb
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\ERPModules.xml
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\DB.dll
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\MySql.Data.dll
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\Crypto.dll
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\DB.pdb
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\DB.xml
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\Crypto.pdb
+D:\repo\roket2016\ERP\ERPModules\bin\Debug\Crypto.xml
+D:\repo\roket2016\ERP\ERPModules\obj\Debug\ERPModules.vbprojResolveAssemblyReference.cache
+D:\repo\roket2016\ERP\ERPModules\obj\Debug\ERPModules.Resources.resources
+D:\repo\roket2016\ERP\ERPModules\obj\Debug\ERPModules.vbproj.GenerateResource.Cache
+D:\repo\roket2016\ERP\ERPModules\obj\Debug\ERPModules.dll
+D:\repo\roket2016\ERP\ERPModules\obj\Debug\ERPModules.xml
+D:\repo\roket2016\ERP\ERPModules\obj\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\obj\Debug\ERPModules.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\obj\Debug\ERPModules.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\obj\Debug\ERPModules.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\obj\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\obj\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ERPModules\obj\Debug\ERPModules.pdb
+E:\ERP - Copy\ERPModules\bin\Debug\ERPModules.dll
+E:\ERP - Copy\ERPModules\bin\Debug\ERPModules.pdb
+E:\ERP - Copy\ERPModules\bin\Debug\ERPModules.xml
+E:\ERP - Copy\ERPModules\bin\Debug\DB.dll
+E:\ERP - Copy\ERPModules\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\ERPModules\bin\Debug\Crypto.dll
+E:\ERP - Copy\ERPModules\bin\Debug\DB.pdb
+E:\ERP - Copy\ERPModules\bin\Debug\DB.xml
+E:\ERP - Copy\ERPModules\bin\Debug\Crypto.pdb
+E:\ERP - Copy\ERPModules\bin\Debug\Crypto.xml
+E:\ERP - Copy\ERPModules\obj\Debug\ERPModules.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ERPModules\obj\Debug\ERPModules.Resources.resources
+E:\ERP - Copy\ERPModules\obj\Debug\ERPModules.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ERPModules\obj\Debug\ERPModules.dll
+E:\ERP - Copy\ERPModules\obj\Debug\ERPModules.xml
+E:\ERP - Copy\ERPModules\obj\Debug\ERPModules.pdb

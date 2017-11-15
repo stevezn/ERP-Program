@@ -1,0 +1,31 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\ERP System.exe.config
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\CRC32.vb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\ERP System.exe
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\ERP System.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\ERP System.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\DesktopWorkplace.Library.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\System.Data.SQLite.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\System.Net.FtpClient.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\Crownwood.MagicLibrary.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\Microsoft.mshtml.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\bin\Release\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP.CompanyForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP.LoginForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP.MainForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP.MDIParent.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP.TabbedParent.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP.UpdateForm.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP System.exe
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP System.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERP\obj\Release\ERP System.pdb

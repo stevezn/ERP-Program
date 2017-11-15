@@ -1,0 +1,14 @@
+	subtotal		
+	groupcol	15	
+	sumcols	5	
+	sumcols	6	
+	sortcols	a	
+	sortcols	b	
+	sortcols	c	
+	sortcols	d	
+	sortcols	j	
+	autofit	4	
+	autofit	9	
+	autofit	11	
+	autofit	12	
+	autofit	13	

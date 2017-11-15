@@ -1,0 +1,15 @@
+D:\Projects\VSRepo\Rocket 2016\Update\Update\bin\Debug\Update.exe.config
+D:\Projects\VSRepo\Rocket 2016\Update\Update\bin\Debug\Update.exe
+D:\Projects\VSRepo\Rocket 2016\Update\Update\bin\Debug\Update.pdb
+D:\Projects\VSRepo\Rocket 2016\Update\Update\bin\Debug\Update.xml
+D:\Projects\VSRepo\Rocket 2016\Update\Update\obj\Debug\Update.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\Rocket 2016\Update\Update\obj\Debug\Update.Resources.resources
+D:\Projects\VSRepo\Rocket 2016\Update\Update\obj\Debug\Update.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\Rocket 2016\Update\Update\obj\Debug\Update.exe
+D:\Projects\VSRepo\Rocket 2016\Update\Update\obj\Debug\Update.xml
+D:\Projects\VSRepo\Rocket 2016\Update\Update\obj\Debug\Update.pdb
+D:\Projects\VSRepo\Rocket 2016\Update\Update\obj\Debug\Update.MainForm.resources
+D:\VStudio\GITLAB\ERP\Update\bin\Debug\Update.exe.config
+D:\VStudio\GITLAB\ERP\Update\obj\Debug\Update.exe
+D:\VStudio\GITLAB\ERP\Update\obj\Debug\Update.xml
+D:\VStudio\GITLAB\ERP\Update\obj\Debug\Update.pdb

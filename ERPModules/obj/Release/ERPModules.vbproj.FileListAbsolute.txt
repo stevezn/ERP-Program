@@ -1,0 +1,15 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Release\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Release\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Release\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Release\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Release\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Release\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Release\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Release\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\bin\Release\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Release\ERPModules.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Release\ERPModules.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Release\ERPModules.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Release\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Release\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ERPModules\obj\Release\ERPModules.pdb

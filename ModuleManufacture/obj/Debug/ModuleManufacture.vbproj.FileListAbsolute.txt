@@ -1,0 +1,60 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\ModuleManufacture.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\ModuleManufacture.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\ModuleManufacture.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\obj\Debug\ModuleManufacture.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\obj\Debug\ModuleManufacture.ManufactureControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\obj\Debug\ModuleManufacture.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\obj\Debug\ModuleManufacture.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\obj\Debug\ModuleManufacture.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\obj\Debug\ModuleManufacture.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleManufacture\obj\Debug\ModuleManufacture.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\ModuleManufacture.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\ModuleManufacture.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\ModuleManufacture.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.ManufactureControl.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.pdb
+E:\ERP - Copy\ModuleManufacture\bin\Debug\ModuleManufacture.dll
+E:\ERP - Copy\ModuleManufacture\bin\Debug\ModuleManufacture.pdb
+E:\ERP - Copy\ModuleManufacture\bin\Debug\ModuleManufacture.xml
+E:\ERP - Copy\ModuleManufacture\bin\Debug\ERPModules.dll
+E:\ERP - Copy\ModuleManufacture\bin\Debug\DB.dll
+E:\ERP - Copy\ModuleManufacture\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\ModuleManufacture\bin\Debug\Crypto.dll
+E:\ERP - Copy\ModuleManufacture\bin\Debug\ERPModules.pdb
+E:\ERP - Copy\ModuleManufacture\bin\Debug\ERPModules.xml
+E:\ERP - Copy\ModuleManufacture\bin\Debug\DB.pdb
+E:\ERP - Copy\ModuleManufacture\bin\Debug\DB.xml
+E:\ERP - Copy\ModuleManufacture\bin\Debug\Crypto.pdb
+E:\ERP - Copy\ModuleManufacture\bin\Debug\Crypto.xml
+E:\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.ManufactureControl.resources
+E:\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.Resources.resources
+E:\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.dll
+E:\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.xml
+E:\ERP - Copy\ModuleManufacture\obj\Debug\ModuleManufacture.pdb

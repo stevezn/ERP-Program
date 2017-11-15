@@ -1,0 +1,63 @@
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\ModuleUser.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\ModuleUser.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\ModuleUser.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\obj\Debug\ModuleUser.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\obj\Debug\ModuleUser.Password.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\obj\Debug\ModuleUser.UserCtrl.resources
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\obj\Debug\ModuleUser.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\obj\Debug\ModuleUser.dll
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\obj\Debug\ModuleUser.xml
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\obj\Debug\ModuleUser.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\ModuleUser\obj\Debug\ModuleUser.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\ModuleUser.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\ModuleUser.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\ModuleUser.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\Crypto.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\DB.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\ERPModules.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\MySql.Data.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\Crypto.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\Crypto.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\DB.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\DB.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\ERPModules.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\bin\Debug\ERPModules.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.Password.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.UserCtrl.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.pdb
+E:\ERP - Copy\ModuleUser\bin\Debug\ModuleUser.dll
+E:\ERP - Copy\ModuleUser\bin\Debug\ModuleUser.pdb
+E:\ERP - Copy\ModuleUser\bin\Debug\ModuleUser.xml
+E:\ERP - Copy\ModuleUser\bin\Debug\Crypto.dll
+E:\ERP - Copy\ModuleUser\bin\Debug\DB.dll
+E:\ERP - Copy\ModuleUser\bin\Debug\ERPModules.dll
+E:\ERP - Copy\ModuleUser\bin\Debug\MySql.Data.dll
+E:\ERP - Copy\ModuleUser\bin\Debug\Crypto.pdb
+E:\ERP - Copy\ModuleUser\bin\Debug\Crypto.xml
+E:\ERP - Copy\ModuleUser\bin\Debug\DB.pdb
+E:\ERP - Copy\ModuleUser\bin\Debug\DB.xml
+E:\ERP - Copy\ModuleUser\bin\Debug\ERPModules.pdb
+E:\ERP - Copy\ModuleUser\bin\Debug\ERPModules.xml
+E:\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.Resources.resources
+E:\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.Password.resources
+E:\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.UserCtrl.resources
+E:\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.vbproj.GenerateResource.Cache
+E:\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.dll
+E:\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.xml
+E:\ERP - Copy\ModuleUser\obj\Debug\ModuleUser.pdb

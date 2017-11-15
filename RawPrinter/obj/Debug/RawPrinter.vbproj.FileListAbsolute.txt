@@ -1,0 +1,26 @@
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Debug\RawPrinter.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Debug\RawPrinter.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\bin\Debug\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\bin\Debug\RawPrinter.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\bin\Debug\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Debug\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Debug\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Debug\RawPrinter.pdb
+D:\Projects\VSRepo\roket2016-new\ERP\RawPrinter\obj\Debug\RawPrinter.vbprojResolveAssemblyReference.cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\RawPrinter\bin\Debug\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\RawPrinter\bin\Debug\RawPrinter.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\RawPrinter\bin\Debug\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.Resources.resources
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.vbproj.GenerateResource.Cache
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.dll
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.xml
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.pdb
+D:\Projects\VSRepo\roket2016-new\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.vbprojResolveAssemblyReference.cache
+E:\ERP - Copy\RawPrinter\bin\Debug\RawPrinter.dll
+E:\ERP - Copy\RawPrinter\bin\Debug\RawPrinter.pdb
+E:\ERP - Copy\RawPrinter\bin\Debug\RawPrinter.xml
+E:\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.Resources.resources
+E:\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.vbproj.GenerateResource.Cache
+E:\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.dll
+E:\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.xml
+E:\ERP - Copy\RawPrinter\obj\Debug\RawPrinter.pdb
